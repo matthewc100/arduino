@@ -21,8 +21,8 @@
 #include <SPI.h> // included in Arduino install
 
 // Updatable settings:
-const char mySSID[] = "LittleDeer"; // Wifi network name
-const char myPassword[] = "226z5hyi"; // Wifi network password
+const char mySSID[] = "ssid"; // Wifi network name
+const char myPassword[] = "phrase"; // Wifi network password
 char token[] = "1834798862-GGokRsEaLYVl0esO0LqRx6Jifv8Hj9qsagmLOKL"; // Get this from arduino-tweet.appspot.com
 String location = "#Dryer "; // hashtag for this sensor location
 int threshold = 60; // Sensor calibration

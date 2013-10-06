@@ -1,4 +1,3 @@
-
 /* This sketch tweets via Wifly, created using Uno, Maxbotix EZ1, and WiFly RN-XV. 
  * by @Kevin7 for happenstanceproject.com, Aug 2012. Code home: https://github.com/hackinstance/WiFly_twitter
  *
